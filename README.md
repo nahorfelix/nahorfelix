@@ -13,11 +13,11 @@
 
       ✨ About Me:
     
-        💼 Software Engineer | 🧩 Problem Solver | Devops&SRE|QA Automation|💡 Tech Enthusiast</li>
-        🚀 Passionate about building clean, efficient, and scalable software solutions.</li>
-        🌐 Specialised in web development, Android development, and machine learning.</li>
-        🛠️ Git is my sidekick. Ctrl + Z is my emergency escape.</li>
-        🌱 Always open to collaborating on cool projects or talking about anything tech — or memes.</li>
+        💼 Software Engineer | 🧩 Problem Solver | Devops&SRE|QA Automation|💡 Tech Enthusiast.
+        🚀 Passionate about building clean, efficient, and scalable software solutions.
+        🌐 Specialised in web development, Android development, and machine learning.
+        🛠️ Git is my sidekick. Ctrl + Z is my emergency escape.
+        🌱 Always open to collaborating on cool projects or talking about anything tech — or memes.
       
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
