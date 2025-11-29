@@ -11,23 +11,16 @@
       <h1 align="left">👋 Hey there, I'm Felix — your friendly neighborhood bug whisperer 🐛✨</h1>
       <p>Coffee-powered ☕, code-obsessed 💻 and currently in a committed relationship with my keyboard. I turn caffeine into code, chaos into clean UIs and Stack Overflow tabs into solutions.</p>
 
-      <h2>✨ About Me:</h2>
-      <ul>
-        <li>💼 Software Engineer | 🧩 Problem Solver | Devops&SRE|QA Automation|💡 Tech Enthusiast</li>
-        <li>🚀 Passionate about building clean, efficient, and scalable software solutions.</li>
-        <li>🌐 Specialised in web development, Android development, and machine learning.</li>
-        <li>🛠️ Git is my sidekick. Ctrl + Z is my emergency escape.</li>
-        <li>🌱 Always open to collaborating on cool projects or talking about anything tech — or memes.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
+      ✨ About Me:
+    
+        💼 Software Engineer | 🧩 Problem Solver | Devops&SRE|QA Automation|💡 Tech Enthusiast</li>
+        🚀 Passionate about building clean, efficient, and scalable software solutions.</li>
+        🌐 Specialised in web development, Android development, and machine learning.</li>
+        🛠️ Git is my sidekick. Ctrl + Z is my emergency escape.</li>
+        🌱 Always open to collaborating on cool projects or talking about anything tech — or memes.</li>
+      
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
-
----
 
 ## 🧰 Tech Stack
 - **Languages:** Java, JavaScript, Python, PHP  
