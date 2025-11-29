@@ -5,7 +5,6 @@
     <td width="160">
       <!-- Optional: personal image in README (not required because your profile photo shows left). 
            You can use your own hosted image or GitHub raw file link. -->
-      <img src="YOUR_AVATAR_IMAGE_URL" width="140" style="border-radius: 50%;" alt="avatar" />
     </td>
     <td>
       <h1 align="left">👋 Hey there, I'm Felix — your friendly neighborhood bug whisperer 🐛✨</h1>
