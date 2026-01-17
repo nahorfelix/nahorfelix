@@ -7,7 +7,7 @@
            You can use your own hosted image or GitHub raw file link. -->
     </td>
     <td>
-      <h1 align="left">👋 Hey there, I'm Felix — your friendly neighborhood bug whisperer 🐛✨</h1>
+      <h1 align="left">👋 Hey there, I'm Felix — I build scalable applications, automate rigorous quality gates, and engineer the CI/CD pipelines that bring them to life. I believe in the "You Build It, You Run It" philosophy 🐛✨</h1>
       <p>Coffee-powered ☕, code-obsessed 💻 and currently in a committed relationship with my keyboard. I turn caffeine into code, chaos into clean UIs and Stack Overflow tabs into solutions.</p>
 
       ✨ About Me:
