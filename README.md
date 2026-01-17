@@ -11,21 +11,20 @@
       <p>Coffee-powered ☕, code-obsessed 💻 and currently in a committed relationship with my keyboard. I turn caffeine into code, chaos into clean UIs and Stack Overflow tabs into solutions.</p>
 
       ✨ About Me:
-    
-        💼 Software Engineer | 🧩 Problem Solver | Devops&SRE|QA Automation|💡 Tech Enthusiast.
-        🚀 Passionate about building clean, efficient, and scalable software solutions.
-        🌐 Specialised in web development, Android development, and machine learning.
-        🛠️ Git is my sidekick. Ctrl + Z is my emergency escape.
-        🌱 Always open to collaborating on cool projects or talking about anything tech — or memes.
+       ### 🚀 Professional Focus:
+- 🏗️ **Software Engineering:** Designing modular architectures and Page Object Models.
+- 🧪 **QA Automation:** End-to-end testing (UI, API, Visual) using Playwright & JavaScript.
+- ♾️ **DevOps & SRE:** Automating quality gates and reliability with GitHub Actions.
+- 🔧 **Git is my sidekick.** I treat my test code with the same rigor as production code.
       
 
 > *"Talk is cheap. Show me the code."* — Linus Torvalds
 
 ## 🧰 Tech Stack
-- **Languages:** Java, JavaScript, Python, PHP  
+- **Languages:** Java, JavaScript, Python, PHPm ,Typscript   
 - **Web:** HTML, CSS, React, Node.js ,Django 
 - **Mobile:** Android (Kotlin/Java)  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL, MongoDB , PostgreSQL 
 - **☁️ Cloud & Deployment:**  Git & GitHub   ,GitHub Actions (CI/CD) ,Docker, Linux server basics ,Monitoring & Logs , Deployment pipelines
 - **Tools:**  Postman (API testing)   ,Figma (UI design) ,VS Code, Android Studio, IntelliJ ,Agile/Scrum basics 
 
