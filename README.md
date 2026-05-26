@@ -1,4 +1,4 @@
-<h1 align="center">Felix Nahor</h1>
+<h1 align="center">Felix </h1>
 <h3 align="center">Software Engineer · SDET · QA Automation · DevOps · Cloud Native</h3>
 
 <p align="center">
