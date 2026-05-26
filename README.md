@@ -31,7 +31,17 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nahorfelix&show_icons=true&theme=default" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahorfelix&theme=github_dark" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=nahorfelix&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahorfelix&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahorfelix&theme=github_dark" alt="Most commit language" />
+</p>
 
 ---
 
