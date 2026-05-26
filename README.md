@@ -9,7 +9,7 @@
 
 ---
 
-I'm a **Software Engineer** and **Quality/DevOps** specialist with **7+ years of development experience**, building full-stack applications, **cloud-native** platforms, and delivery pipelines that are observable, repeatable, and production-ready. Across **67+ public repositories**, my work spans **Next.js**, **React**, **Node.js**, **Python**, and **Terraform**, with a strong focus on clean architecture, CI/CD, and “you build it, you run it” ownership.
+I'm a **Software Engineer** and **Quality/DevOps** specialist with **4+ years of development experience**, building full-stack applications, **cloud-native** platforms, and delivery pipelines that are observable, repeatable, and production-ready. Across **67+ public repositories**, my work spans **Next.js**, **React**, **Node.js**, **Python**, and **Terraform**, with a strong focus on clean architecture, CI/CD, and “you build it, you run it” ownership.
 
 I'm skilled in **Kubernetes** and **containerized workloads** (Docker), designing and operating services that scale on modern cloud infrastructure. I use **GitHub Actions**, **Linux**, and **GitOps-style** workflows to ship reliably—from local development through staged deploys and production environments (including Linux/cPanel and cloud targets).
 
