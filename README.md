@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · SDET · QA Automation · DevOps · Cloud Native</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-7%2B%20years-2ea44f?style=flat-square" alt="4+ years" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-2ea44f?style=flat-square" alt="4+ years" />
   <img src="https://img.shields.io/badge/Public%20repos-67+-blue?style=flat-square" alt="Public repos" />
   <img src="https://img.shields.io/badge/Cloud%20Native-Kubernetes%20%7C%20Docker-326ce5?style=flat-square&logo=kubernetes&logoColor=white" alt="Cloud native" />
 </p>
