@@ -9,15 +9,21 @@
 
 ---
 
-I'm a **Software Engineer** and **Quality/DevOps** specialist with **4+ years of development experience**, building full-stack applications, **cloud-native** platforms, and delivery pipelines that are observable, repeatable, and production-ready. The public repositories span **Next.js**, **React**, **Node.js**, **Python**, and **Terraform**, with a strong focus on clean architecture, CI/CD, and “you build it, you run it” ownership.
+I'm a **software engineer and SDET** with **4+ years** of taking a system from a requirement to something people rely on, and of finding the failures before they do. I build the product and I test it. The recent work is payments, tendering, farm operations, research software, and HR.
 
-I'm skilled in **Kubernetes** and **containerized workloads** (Docker), designing and operating services that scale on modern cloud infrastructure. I use **GitHub Actions**, **Linux**, and **GitOps-style** workflows to ship reliably—from local development through staged deploys and production environments (including Linux/cPanel and cloud targets).
+**Bayan** is a municipal payments system in Somalia, in use by **more than 400,000 people**. I built the collection flow, the admin and collector dashboards, and the REST API the desks work from. The problem was taking payment at that scale without losing the record of who paid. The system is the record.
 
-I'm experienced in **end-to-end and API test automation** (Playwright, JavaScript/TypeScript). I apply the same engineering discipline to test code as to production code: Page Object Models, data-driven suites, regression gates, and quality checks integrated into CI/CD.
+**AEC Tenderlink** is a tendering platform at [aectenderlink.com](https://www.aectenderlink.com). Firms publish and respond to tenders. I built the Next.js application and the Node API behind it, and I put it into production.
 
-I've built systems in **FinTech/SACCO compliance**, **multi-tenant SaaS**, **ISP provisioning**, **e-commerce**, **logistics/fleet tracking**, **observability pipelines**, and **distributed microservices**—including rental management, live/wedding booking, market monitoring, and enterprise risk dashboards. I also contribute to other people's repositories, including a country-of-origin research application.
+**Mavuno Guard** is a SaaS platform for farm risk: weather, trees, and what is happening in the field. The point of the product is that a farm manager can see the risk before it becomes a loss.
 
-I turn requirements into **resilient APIs**, **admin dashboards**, and **automated workflows**—backed by containers, orchestration where it fits, and monitoring you can trust in production.
+**Provenance** is a country-of-origin research application. I contributed as an engineer on the product, including how a long set of results is read and how those results are presented.
+
+**HR.** I contributed recruitment, departments, attendance, events, and the dashboard on a Vite HR system, and I brought that platform into the shared [Ivy Community HR](https://github.com/ivycommunity/hr/pull/1) repository. The pull requests were merged.
+
+**QA.** Alongside the product work I built an [API automation framework](https://github.com/nahorfelix/api-automation-framework-js) in Playwright. It calls the REST service the way a client does, and it is meant to fail the build when a contract breaks. That is the same discipline I use on the products above: a defect is raised against the running system, and it is solved before a user is the one who finds it.
+
+The same practice shows up in the other systems: ISP provisioning, SACCO risk and compliance, multi-tenant logistics, and the pipelines that ship them. Kubernetes, Docker, GitHub Actions, and Linux are how that software stays running after the first release.
 
 ---
 
@@ -25,17 +31,15 @@ I turn requirements into **resilient APIs**, **admin dashboards**, and **automat
 
 | Project | What it demonstrates |
 |--------|----------------------|
-| **Provenance** | Country-of-origin research — contributor on the React and TypeScript application |
-| **Aurascale Cloud Intelligence** | Multi-cloud cost monitoring — Prisma, Node.js, React |
-| **flexinet-isp-core** | ISP management at scale — Express, React, billing & network ops |
-| **mts-logistics-saas** | Multi-tenant logistics SaaS — NestJS, PostgreSQL, Redis, real-time tracking |
-| **saccoguard-enterprise-risk-engine** | SACCO liquidity & compliance — Spring Boot, SASRA-style auditing |
-| **market-observability-pipeline** | Observability stack — Node microservices, React, Docker, QA integration |
-| **nexus-worker-orchestrator** | Distributed jobs — Redis queue, worker scaling, async processing |
-| **Distributed-Microservices-System** | Microservices — Flask, FastAPI, React, JWT, event-driven design |
-| **api-automation-framework-js** | API test framework — Playwright, REST, CI-ready automation |
-| **affordable-wedding-platform** | Next.js booking platform with secure admin dashboard |
-| **terraform-challenge-*** | IaC practice — modules, conditionals, zero-downtime patterns on AWS |
+| **Bayan** | Municipal payments in Somalia, more than 400,000 users. Collection, dashboards, and the API |
+| **AEC Tenderlink** | Tendering platform in production. Next.js and a Node API |
+| **Mavuno Guard** | Farm-risk SaaS. Weather, trees, and field operations |
+| **Provenance** | Country-of-origin research. Contributor on the React and TypeScript application |
+| **HR system** | Recruitment, attendance, departments, events, and dashboard. Merged into the shared repository |
+| **API automation framework** | Playwright against REST services, so a broken contract fails in CI |
+| **flexinet-isp-core** | ISP provisioning. Billing and network operations |
+| **saccoguard-enterprise-risk-engine** | SACCO liquidity and compliance |
+| **mts-logistics-saas** | Multi-tenant logistics. PostgreSQL, Redis, live tracking |
 
 ---
 
