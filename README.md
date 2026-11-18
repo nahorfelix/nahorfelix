@@ -43,17 +43,17 @@ That is the work I take on: the frontend and the backend for a real operator, an
 
 ## Tech stack
 
-**Languages & frameworks:** Java · JavaScript · TypeScript · Python · PHP · Go · C# · HCL (Terraform)
+**Frontend:** JavaScript · TypeScript · React · Next.js
 
-**Web & mobile:** React · Next.js · Node.js · Express · NestJS · Django · Flask · FastAPI · Android (Kotlin/Java)
+**Backend:** Node.js · Express · NestJS · TypeScript · PHP · Python · Django · Flask · FastAPI · Java · Spring Boot · Go · C#
 
-**Cloud native & DevOps:** Kubernetes · Docker · GitHub Actions · Terraform · CI/CD · Linux · Monitoring & logs · Service orchestration
+**Data:** PostgreSQL · MySQL · MongoDB · Redis · Prisma
 
-**Quality engineering:** Playwright · API/UI automation · Postman · Regression & pipeline gates
+**QA automation:** Playwright · API tests · Postman · tests that fail the build
 
-**Data & cloud:** MySQL · PostgreSQL · MongoDB · Redis · Prisma · AWS · Terraform · Git & GitHub
+**DevOps and orchestration:** Docker · Kubernetes · GitHub Actions · Terraform · CI/CD · Linux · AWS · monitoring
 
-**Practices:** AI-assisted products · Microservices · Service orchestration · Multi-tenant SaaS · API design · Agile/Scrum
+**Also:** language models in the product workflow · microservices · multi-tenant SaaS · Android (Kotlin/Java)
 
 ---
 
