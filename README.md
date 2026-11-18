@@ -1,27 +1,27 @@
 <h1 align="center">Felix </h1>
-<h3 align="center">Backend · Distributed systems · Microservices · QA Automation · DevOps · SRE</h3>
+<h3 align="center">Backend · AI systems · Distributed systems · QA Automation · DevOps · SRE</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-APIs%20%26%20services-0f766e?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Distributed%20systems-microservices-1d4ed8?style=flat-square" alt="Distributed systems" />
+  <img src="https://img.shields.io/badge/AI-language%20models%20in%20production-111827?style=flat-square" alt="AI" />
   <img src="https://img.shields.io/badge/QA%20Automation-Playwright-7c3aed?style=flat-square" alt="QA Automation" />
   <img src="https://img.shields.io/badge/DevOps%20%26%20SRE-Kubernetes%20%7C%20Docker-326ce5?style=flat-square&logo=kubernetes&logoColor=white" alt="DevOps and SRE" />
 </p>
 
 ---
 
-I build backend services, split them where the load requires it, and keep them running after release. **4+ years.** The same person writes the service, the automated checks, and the pipeline. A defect is raised against the running system and closed before a user is the one who finds it.
+I am a backend engineer for services that have to stay up, including systems that use a language model in the workflow. **4+ years.** I design the API, split the work across services where the load requires it, and run the orchestration around them: containers, pipelines, and the infrastructure they sit on. I also automate the tests. A client gets one person who can build the service, prove it, and operate it.
 
 | | |
 |---|---|
 | **Bayan** | Municipal payments in Somalia for **more than 400,000 people**. Collection, admin and collector dashboards, and the REST API those desks use. |
 | **AEC Tenderlink** | SaaS for tendering, in production at [aectenderlink.com](https://www.aectenderlink.com). Firms publish and answer tenders. Next.js and a Node API. |
 | **Mavuno Guard** | SaaS for farm risk. Weather, trees, and field operations, so a manager sees the risk before it becomes a loss. |
-| **Provenance** | Country-of-origin research. Contributor on the application, including how results are presented. |
+| **Provenance** | AI for asylum and refugee work. A language model helps researchers gather country-of-origin reporting. The person still decides the case. |
 | **HR** | Recruitment, departments, attendance, events, and the dashboard. Merged into [Ivy Community HR](https://github.com/ivycommunity/hr/pull/1). |
 | **QA automation** | [Playwright API framework](https://github.com/nahorfelix/api-automation-framework-js). The suite calls the REST contract the way a client does. A break fails the build. |
 
-Payments, tendering, farm operations, and research software are the recent systems. ISP provisioning, SACCO risk, and multi-tenant logistics are the same kind of work: a service with a real operator on the other side, shipped with Docker, Kubernetes, and GitHub Actions, and watched after it is live.
+That is the work I take on: a backend with a real operator, an AI step where the product needs one, automated checks on the API, and the DevOps around the release. Docker, Kubernetes, GitHub Actions, and Terraform are the orchestration I have used to ship and keep these systems running. ISP provisioning, SACCO risk, and multi-tenant logistics are the same practice at a different scale.
 
 ---
 
@@ -32,7 +32,7 @@ Payments, tendering, farm operations, and research software are the recent syste
 | **Bayan** | Municipal payments, Somalia. More than 400,000 users. API and dashboards |
 | **AEC Tenderlink** | Tendering SaaS, in production. Next.js and a Node API |
 | **Mavuno Guard** | Farm-risk SaaS. Weather, trees, and field operations |
-| **Provenance** | Country-of-origin research. Contributor, including how results are presented |
+| **Provenance** | LLM-assisted research for asylum and refugee country-of-origin work. Contributor |
 | **HR system** | Recruitment, attendance, departments, events, dashboard. Merged |
 | **API automation** | Playwright against REST. A broken contract fails CI |
 | **flexinet-isp-core** | ISP provisioning. Billing and network operations |
@@ -47,13 +47,13 @@ Payments, tendering, farm operations, and research software are the recent syste
 
 **Web & mobile:** React · Next.js · Node.js · Express · NestJS · Django · Flask · FastAPI · Android (Kotlin/Java)
 
-**Cloud native & DevOps:** Kubernetes · Docker · GitHub Actions · GitOps · Linux · CI/CD pipelines · Monitoring & logs
+**Cloud native & DevOps:** Kubernetes · Docker · GitHub Actions · Terraform · CI/CD · Linux · Monitoring & logs · Service orchestration
 
 **Quality engineering:** Playwright · API/UI automation · Postman · Regression & pipeline gates
 
 **Data & cloud:** MySQL · PostgreSQL · MongoDB · Redis · Prisma · AWS · Terraform · Git & GitHub
 
-**Practices:** Cloud-native architecture · Microservices · Multi-tenant SaaS · API design · Agile/Scrum
+**Practices:** AI-assisted products · Microservices · Service orchestration · Multi-tenant SaaS · API design · Agile/Scrum
 
 ---
 
@@ -80,4 +80,4 @@ Payments, tendering, farm operations, and research software are the recent syste
 
 ---
 
-<p align="center"><i>I build software that ships with confidence—tested, automated, and ready for production.</i></p>
+<p align="center"><i>Backend, AI in the workflow, QA automation, and the DevOps that keeps the service up.</i></p>
