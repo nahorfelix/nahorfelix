@@ -1,31 +1,81 @@
-# Felix
+<h1 align="center">Felix </h1>
+<h3 align="center">Software Engineer · SDET · QA Automation · DevOps · Cloud Native</h3>
 
-I build web applications, the services behind them, and the checks that keep a release honest. The list below is work on this account and work I have contributed to.
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-2ea44f?style=flat-square" alt="4+ years" />
+  <img src="https://img.shields.io/badge/Public%20work-open-blue?style=flat-square" alt="Public work" />
+  <img src="https://img.shields.io/badge/Cloud%20Native-Kubernetes%20%7C%20Docker-326ce5?style=flat-square&logo=kubernetes&logoColor=white" alt="Cloud native" />
+</p>
 
-## Recent work
+---
 
-- [Bayan Payments](https://github.com/nahorfelix/bayan-payments) — payment collection in PHP and MySQL, with admin and collector dashboards and a small REST API.
-- [Event ticketing](https://github.com/nahorfelix/event-ticketing-system) — a ticketing system.
-- [Mavuno Guard](https://github.com/nahorfelix/mavuno-guard) — farm risk intelligence for weather, trees, and field operations.
-- [Affordable wedding platform](https://github.com/nahorfelix/affordable-wedding-platform) — a booking platform with an admin dashboard.
-- [AUKA TV 254](https://github.com/nahorfelix/aukatv254-dep2) — a Next.js app, built for cPanel from GitHub Actions.
-- [Terraform practice](https://github.com/nahorfelix/terraform-challenge-day8) — a run of AWS infrastructure exercises: modules, conditionals, and deployment workflows.
+I'm a **Software Engineer** and **Quality/DevOps** specialist with **4+ years of development experience**, building full-stack applications, **cloud-native** platforms, and delivery pipelines that are observable, repeatable, and production-ready. The public repositories span **Next.js**, **React**, **Node.js**, **Python**, and **Terraform**, with a strong focus on clean architecture, CI/CD, and “you build it, you run it” ownership.
 
-## With other people
+I'm skilled in **Kubernetes** and **containerized workloads** (Docker), designing and operating services that scale on modern cloud infrastructure. I use **GitHub Actions**, **Linux**, and **GitOps-style** workflows to ship reliably—from local development through staged deploys and production environments (including Linux/cPanel and cloud targets).
 
-- [Provenance](https://github.com/ConsultKBT/Provenance) — contributor. The page scrolls on one window, the results page is titled Search Results, and the coverage control reads Coverage matrix.
-- [ivycommunity/hr](https://github.com/ivycommunity/hr/pull/1) — the Vite HR platform, brought into the shared repository. Merged.
-- [Vite HR management](https://github.com/george-with-a-g/ViteHRManagementSystem/pulls?q=is%3Apr+author%3Anahorfelix+is%3Amerged) — recruitment, departments, attendance, events, and the dashboard. Merged.
+I'm experienced in **end-to-end and API test automation** (Playwright, JavaScript/TypeScript). I apply the same engineering discipline to test code as to production code: Page Object Models, data-driven suites, regression gates, and quality checks integrated into CI/CD.
 
-## Also on this account
+I've built systems in **FinTech/SACCO compliance**, **multi-tenant SaaS**, **ISP provisioning**, **e-commerce**, **logistics/fleet tracking**, **observability pipelines**, and **distributed microservices**—including rental management, live/wedding booking, market monitoring, and enterprise risk dashboards. I also contribute to other people's repositories, including a country-of-origin research application.
 
-- [Aurascale](https://github.com/nahorfelix/Aurascale-cloud-intelligence-monorepo-structure-) — multi-cloud cost monitoring with Prisma, Node.js, and React.
-- [Zenith Pay](https://github.com/nahorfelix/zenith-pay-observability-platform) — transaction monitoring with Spring Boot, Kafka, PostgreSQL, Prometheus, and Grafana.
+I turn requirements into **resilient APIs**, **admin dashboards**, and **automated workflows**—backed by containers, orchestration where it fits, and monitoring you can trust in production.
 
-## What I use
+---
 
-TypeScript, React, Next.js, Node.js, PHP, Python, Java, PostgreSQL, MySQL, Docker, Terraform, GitHub Actions, and Playwright.
+## Highlights from my work
+
+| Project | What it demonstrates |
+|--------|----------------------|
+| **Provenance** | Country-of-origin research — contributor on the React and TypeScript application |
+| **Aurascale Cloud Intelligence** | Multi-cloud cost monitoring — Prisma, Node.js, React |
+| **flexinet-isp-core** | ISP management at scale — Express, React, billing & network ops |
+| **mts-logistics-saas** | Multi-tenant logistics SaaS — NestJS, PostgreSQL, Redis, real-time tracking |
+| **saccoguard-enterprise-risk-engine** | SACCO liquidity & compliance — Spring Boot, SASRA-style auditing |
+| **market-observability-pipeline** | Observability stack — Node microservices, React, Docker, QA integration |
+| **nexus-worker-orchestrator** | Distributed jobs — Redis queue, worker scaling, async processing |
+| **Distributed-Microservices-System** | Microservices — Flask, FastAPI, React, JWT, event-driven design |
+| **api-automation-framework-js** | API test framework — Playwright, REST, CI-ready automation |
+| **affordable-wedding-platform** | Next.js booking platform with secure admin dashboard |
+| **terraform-challenge-*** | IaC practice — modules, conditionals, zero-downtime patterns on AWS |
+
+---
+
+## Tech stack
+
+**Languages & frameworks:** Java · JavaScript · TypeScript · Python · PHP · Go · C# · HCL (Terraform)
+
+**Web & mobile:** React · Next.js · Node.js · Express · NestJS · Django · Flask · FastAPI · Android (Kotlin/Java)
+
+**Cloud native & DevOps:** Kubernetes · Docker · GitHub Actions · GitOps · Linux · CI/CD pipelines · Monitoring & logs
+
+**Quality engineering:** Playwright · API/UI automation · Postman · Regression & pipeline gates
+
+**Data & cloud:** MySQL · PostgreSQL · MongoDB · Redis · Prisma · AWS · Terraform · Git & GitHub
+
+**Practices:** Cloud-native architecture · Microservices · Multi-tenant SaaS · API design · Agile/Scrum
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahorfelix&theme=github_dark" alt="Profile details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahorfelix&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nahorfelix&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahorfelix&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahorfelix&theme=github_dark" alt="Most commit language" />
+</p>
+
+---
 
 ## Contact
 
-[felixnahor2@gmail.com](mailto:felixnahor2@gmail.com)
+- **Email:** [felixnahor2@gmail.com](mailto:felixnahor2@gmail.com)
+- **GitHub:** [@nahorfelix](https://github.com/nahorfelix)
+
+---
+
+<p align="center"><i>I build software that ships with confidence—tested, automated, and ready for production.</i></p>
